@@ -1,6 +1,6 @@
 # Deep learning–enhanced fluorescence microscopy via degeneration decoupling
 
-This is an implementation of [our article]() on matlab, matconvnet. 
+This is an implementation of the article Deep learning–enhanced fluorescence microscopy via degeneration decoupling on matlab, matconvnet. 
 
 ## Preparation
 
