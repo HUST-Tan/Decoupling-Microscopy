@@ -2,8 +2,6 @@
 
 This is an implementation of [our article]() on matlab, matconvnet. 
 
-<div align="center"> <img src="png/demo.png" width="1500"/> </div><br>
-
 ## Preparation
 
 ### Prerequisites
